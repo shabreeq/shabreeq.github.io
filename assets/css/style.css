@@ -1,0 +1,38 @@
+body{
+  padding:15%;
+  font-family: 'Nunito', sans-serif;
+}
+
+.top-container{
+  position: relative;
+  font-size: 22px;
+}
+
+p{
+  position: relative;;
+  
+}
+
+img{
+  width: 200px;
+}
+
+.project-container{
+  position: relative;
+
+}
+
+.resume-container{
+  position: relative;
+
+}
+
+.mid-container{
+  position: relative;
+
+}
+
+.last-container{
+  position: relative;
+
+}
