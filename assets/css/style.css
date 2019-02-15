@@ -3,7 +3,7 @@ body{
   font-family: 'Nunito', sans-serif;
 }
 
-.top-container{
+/* .top-container{
   position: relative;
   font-size: 22px;
 }
@@ -11,13 +11,14 @@ body{
 p{
   position: relative;;
   
-}
+} */
 
 img{
-  width: 200px;
+  width: 250px;
+  height: 250px;
 }
 
-.project-container{
+/* .project-container{
   position: relative;
 
 }
@@ -35,10 +36,19 @@ img{
 .last-container{
   position: relative;
 
-}
+} */
 
 #projects{
   font-size: 22px;
   font-weight: bold;
 
+}
+
+.about{
+  font-size: 22px;
+  width: 60rem;
+}
+
+#name{
+  font-size: 66px;
 }
