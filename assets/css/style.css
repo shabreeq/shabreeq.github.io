@@ -38,11 +38,9 @@ img{
 
 } */
 
-#projects{
+.text{
   font-size: 22px;
-  font-weight: bold;
-
-}
+  }
 
 .about{
   font-size: 22px;
@@ -52,3 +50,10 @@ img{
 #name{
   font-size: 66px;
 }
+
+.card-title{
+  font-weight: bolder;
+ color: rgb(8, 56, 99);
+ font-size: 30px;
+}
+
